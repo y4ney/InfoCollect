@@ -41,6 +41,7 @@
     > 🚥 一个汇集了 7 种 API 的子域发现工具，可通过使用被动的在线资源来发现网站的有效子域。它具有简单的模块化架构，并针对速度进行了优化。
 - DNSdumpster：[https://dnsdumpster.com/](https://dnsdumpster.com/ "https://dnsdumpster.com/")
     > 🚥 很多第三方服务汇聚了大量DNS数据集，可通过它们检索某个给定域名的子域名。读者也可以利用DNSdumpster网站、在线DNS侦查和搜索的工具挖掘出指定域潜藏的大量子域。
+- dnslookup：[https://dnsdblookup.com/](https://dnsdblookup.com/ "https://dnsdblookup.com/")
 - IP反查绑定域名网站：[https://dns.aizhan.com/](https://dns.aizhan.com/ "https://dns.aizhan.com/")
 - 证书透明度查询
     > 🚥  证书透明度（Certificate Transparency，CT）是证书授权机构（CA）的一个项目，证书授权机构会将每个SSL/TLS证书发布到公共日志中。一个SSL/TLS证书通常包含域名、子域名和邮件地址，这些也经常成为攻击者非常希望获得的有用信息。查找某个域名所属证书的最简单的方法就是使用搜索引擎搜索一些公开的CT日志。
@@ -323,3 +324,4 @@
 - [信息收集技巧 | 从JS中获得敏感信息](https://cn-sec.com/archives/1797889.html "信息收集技巧 | 从JS中获得敏感信息")
 - [挖洞Bounty Tips | js中的敏感信息收集](https://cn-sec.com/archives/965728.html "挖洞Bounty Tips | js中的敏感信息收集")
 - [APKLeaks：APK敏感信息收集工具](https://www.wevul.com/1742.html "APKLeaks：APK敏感信息收集工具")
+- [Discovering API secrets & endpoints using APKLeaks](https://securityboulevard.com/2024/03/discovering-api-secrets-endpoints-using-apkleaks/ "Discovering API secrets & endpoints using APKLeaks")
