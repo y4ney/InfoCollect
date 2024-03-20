@@ -52,4 +52,4 @@
 
 ## 🏁 Star曲线
 
-![star](https://starchart.cc/y4ney/InfomationCollection.svg)
+[![Stargazers over time](https://starchart.cc/y4ney/InfomationCollection.svg?variant=adaptive)](https://starchart.cc/y4ney/InfomationCollection)
