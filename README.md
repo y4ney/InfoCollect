@@ -11,14 +11,16 @@
 
 本项目受到 [Paper-Pen](https://github.com/Paper-Pen) 的 [GatherInfo](https://github.com/Paper-Pen/GatherInfo) 项目的启发，也希望大家多多支持 [Timeline Sec](https://github.com/TimelineSec)
 
-## 🏝 InfomationCollection
+## 🏝 项目内容
 
-详情请点击 [infomationCollection.md](./infomationCollection.md)
+- [速查手册](./速查手册.md)
+- [敏感信息收集手册](./敏感信息收集手册.md)
+- [参考案例](./参考案例.md)
 
 ## 🔎 如何使用
 
 - 我想收集某个信息，但是不知道有哪些工具。
-    
+
     💁🏻‍♀️：CTRL + F
 - 我也有比较好用的工具、网站和案例可以分享。
 
@@ -27,15 +29,11 @@
 
     💁🏻‍♀️：打开 discussion
 - 我发现了错误
-    
+
     💁🏻‍♀️：提交 ISSUE
 - 我想转载
 
     💁🏻‍♀️：注明原作者和链接
-
-
-
-
 
 ## 🎸 交流
 
@@ -46,7 +44,7 @@
 
 ## 💡 关于更新
 
-+ 常渗透，常更新
+常渗透，常更新
 
 ## 🏁 Star曲线
 
