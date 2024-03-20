@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=知己知彼，百战百胜&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=知己知彼，百战百胜;做好信息收集是一次渗透测试的良好开端&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="知己知彼，百战百胜;做好信息收集是一次渗透测试的良好开端">
 </p>
 
 <p align="center">
